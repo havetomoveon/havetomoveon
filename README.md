@@ -1,5 +1,4 @@
 - 👋 Hi
-- 😑 I'm just a regular guy
 
 
 <!---
